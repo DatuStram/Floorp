@@ -1,3 +1,4 @@
 [submodule "floorp"]
 	path = floorp
 	url = https://github.com/DatuStram/Floorp-core
+	branch = localdev
